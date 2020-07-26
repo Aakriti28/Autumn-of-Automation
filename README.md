@@ -1,11 +1,8 @@
 # Autumn-of-Automation
 Submissions for the assignments for the training program
 
-## How to Submit? 
+### Week 1
+The `practice.ipynb` file includes all the four assingments.
 
-- Fork this repository into your own github account.
-- Copy and edit in your repo locally.
-- Upload the assignments in proper folders in your forked repository.
-- Keep your repository public.
-
-### This is just a training exercise so please don't try to see others repository as it will just hamper your learning and understanding.
+### Week 2
+The `practice.ipynb` file includes all the four assingments and rest of the files in folder comprise the data used. 
