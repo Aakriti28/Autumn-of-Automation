@@ -1,5 +1,5 @@
 # Autumn-of-Automation
-Submissions for the assignments for the training program
+Submissions for the assignments of training program
 
 ### Python
 The [`practice.ipynb`](./Python/Practice.ipynb) file includes all the four assignments.
